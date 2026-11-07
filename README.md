@@ -4,4 +4,5 @@ Then i trained two models:
 1) Bayesian Logistic regression Model with a Gaussian prior over the weights. The posterior distribution was approximated to be a Gaussian using the Laplace Approximation. Parameters were again optimized via IRLS.  
 The predictive distribution was also approximated and plotted. 
 2) Probabilistically Generative model was implemented using Gaussian class conditional densities with a shared covariance matrix  
-**All the required equations have been derived in the Jupyter Notebook**
+**All the required equations have been derived in the Jupyter Notebook**  
+Dataset used: https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic
